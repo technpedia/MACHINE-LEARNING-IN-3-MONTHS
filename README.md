@@ -43,5 +43,8 @@ Deep Learning by Fast.AI
 http://course.fast.ai/
 
 ## Week 3-4 
-Re-implement DL projects from my github
+Re-implement DL projects from github
 https://github.com/llSourcell?tab=repositories
+
+##GOOD LUCK!!
+FOLLOW ME ON INSTAGRAM <A HREF="https://www.instagram.com/technpedia/">INSTAGRAM</A>
